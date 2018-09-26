@@ -7,6 +7,7 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import { PusherService } from './services/pusher.service';
 import { HttpClientModule } from '@angular/common/http';
+
 @NgModule({
   declarations: [
     AppComponent
