@@ -1,7 +1,18 @@
 
 # Angular 6 + Pusher + D3 - Real time Chart
 <img src="./realtime-chart.gif"/>
-## Angular 
+
+## Mongod commands
+
+```bash
+mongod --dbpath D:\mg-data1 --replSet test1
+mongo
+use iotdb
+db.createCollection('dooraccess')
+rs.initiate()
+```
+
+## Angular CLI 
 
 ```bash
 ng add @angular/material
