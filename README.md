@@ -1,6 +1,6 @@
 
-# RealtimeChart
-
+# Angular 6 + Pusher + D3 - Real time Chart
+<img src="./realtime-chart.gif"/>
 ## Angular 
 
 ```bash
